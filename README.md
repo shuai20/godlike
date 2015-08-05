@@ -1,2 +1,0 @@
-# godlike
-the first test
